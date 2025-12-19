@@ -4,6 +4,16 @@
 This repository contains the Human-Computer Interaction (HCI) project focused on evaluating and redesigning a mobile e-commerce application interface.  
 The project analyzes usability problems in the original design and presents an improved UI based on established HCI and UX principles.
 
+## Figma Design
+The UI redesign was created using Figma.
+
+- Figma File:  
+  https://www.figma.com/design/1kIOTIVGntONvWmDtSwY8X/eCommerce-App-UI-Kit---Case-Study-Ecommerce-Mobile-App-UI-kit--Community---Copy-?node-id=0-1&t=GvZ8sG3TJZAHLKr3-1
+
+## Presentation.
+- Canva Presentation:  
+  (https://www.canva.com/design/DAG73ZpBY8c/eCzquCiMhWhjXs2zUlUvGA/edit?utm_content=DAG73ZpBY8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Project Objectives
 - Identify usability issues in the original user interface
 - Apply HCI principles to improve user experience

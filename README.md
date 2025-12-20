@@ -12,7 +12,7 @@ The UI redesign was created using Figma.
 
 ## Presentation.
 - Canva Presentation:  
-  (https://www.canva.com/design/DAG73ZpBY8c/eCzquCiMhWhjXs2zUlUvGA/edit?utm_content=DAG73ZpBY8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  https://www.canva.com/design/DAG73ZpBY8c/eCzquCiMhWhjXs2zUlUvGA/edit
 
 ## Project Objectives
 - Identify usability issues in the original user interface
